@@ -10,4 +10,7 @@ This project is implementation of backprojection mentioned on below paper.
 
 - Run App.java  
 
+![img](https://github.com/hololee/universial_backprojection/blob/master/screen1.PNG?raw=true)|![img2](https://github.com/hololee/universial_backprojection/blob/master/screen2.PNG?raw=true)
+|----|----|
+
 
